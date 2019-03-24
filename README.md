@@ -4,7 +4,7 @@ A Neural Network from scratch with two hidden layers. Initial layer and hidden l
 Utilizing this neural net, to create an MNIST Recognizer with upto 96% accuracy after training on 60,000 images from PyTorch MNIST dataset.
 
 ## Directory Contents
-* nnet
+* nnet -
   contains implementation of the neural network.
   * activation.py
     implementation of activation function and its derivative.
